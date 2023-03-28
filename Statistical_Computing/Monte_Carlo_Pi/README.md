@@ -1,11 +1,6 @@
 # Monte Carlo Simulation – Estimating π
 
-<img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/morkev/monte-carlo-pi"> ![](https://img.shields.io/appveyor/build/gruntjs/grunt) <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/morkev/monte-carlo-pi">
-
-
 Simulates rain in a square field, where the number of rain drops in the inscribed circle of radius is equal to the length of the field. The ratio of the number of drops in the circle estimates the value of π.
-
-<b>Run this in your terminal:</b> `git clone https://github.com/morkev/monte-carlo-pi.git`
 
 ---
 
